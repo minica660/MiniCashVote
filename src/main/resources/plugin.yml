@@ -1,0 +1,4 @@
+name: MiniCashVote
+version: '1.0-SNAPSHOT'
+main: MiniCash.miniCashVote.MiniCashVote
+api-version: '1.21'
