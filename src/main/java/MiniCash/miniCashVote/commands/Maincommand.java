@@ -128,7 +128,7 @@ import static MiniCash.miniCashVote.Publick.*;
             votereset(player);
 
     }else {
-        help(player); //helpメソッド呼び代
+        help(player); //helpメソッド呼び出し
         return true;
     }
         return true;
