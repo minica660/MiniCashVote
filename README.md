@@ -1,3 +1,3 @@
 # MiniCashVote
 
-コマンド ： /mvote <引数>
+コマンド ： /mvote <サブコマンド>
